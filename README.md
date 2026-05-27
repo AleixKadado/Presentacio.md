@@ -8,11 +8,11 @@ Hola, sóc l'Aleix Kadado i presentaré els projectes realitzats durant el curs.
 
 # Índex
 
-1. Perfil GitHub  
-2. Repositoris principals  
+1. Presentació inicial del GitHub  
+2. Anàlisi de dos projectes
 3. Explicació de projectes  
-4. Metodologia de treball  
-5. Conclusions  
+4. Defensa tècnica de la solució 
+5. Metodologia de treball 
 
 ---
 
