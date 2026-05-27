@@ -28,38 +28,15 @@ https://github.com/AleixKadado
 
 ---
 
-# Projectes principals
-
-## Projecte 01 - Arranquem  
-
-### Objectiu  
-Explica breument el projecte.  
-
-### Problemes trobats  
-Explica un problema.  
-
-### Solució aplicada  
-Com ho vas solucionar.  
-
-### Aprenentatge  
-Què vas aprendre.  
-
----
-
-## Projecte 02 - EverPia  
-
-### Objectiu  
-...  
-
----
 
 # Metodologia de treball  
 
 ## Kanban  
 Ús de tasques pendents, en curs i finalitzades.  
 
-## Gantt  
-Planificació temporal del projecte.  
+<img width="1180" height="751" alt="image" src="https://github.com/user-attachments/assets/766d2331-a08c-462a-a490-6dbf3dca6f20" />
+
+[Link exemple Planner](https://planner.cloud.microsoft/webui/v1/plan/KmB-cYesr02IRDu2RVQovZYAEJj6?tid=c7b5981a-7820-4ac8-ae65-03515ea81317)
 
 ## GitHub  
 Seguiment mitjançant commits i documentació.  
@@ -70,4 +47,4 @@ Seguiment mitjançant commits i documentació.
 
 - Què has après  
 - Dificultats  
-- Millores futures  # Presentacio.md
+- Millores futures  
