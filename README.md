@@ -21,7 +21,7 @@ Hola, sóc l'Aleix Kadado i presentaré els projectes realitzats durant el curs.
 ## Enllaç GitHub  
 https://github.com/AleixKadado
 
-#Anàlisi dos projectes
+# Projectes
 
 - [Projecte 2](https://github.com/AleixKadado/Projecte2)
 
